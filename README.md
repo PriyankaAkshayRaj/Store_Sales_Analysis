@@ -1,4 +1,4 @@
-##Stores Sales Analysis 📊
+## Stores Sales Analysis 📊
 
 This repository contains an Excel-based sales analysis for **Deepak Stores**, aimed at understanding key sales drivers and identifying opportunities for growth. The analysis provides insights into customer demographics, product performance, and regional trends, culminating in recommendations to improve sales strategy.
 
